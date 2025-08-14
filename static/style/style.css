@@ -1,0 +1,10 @@
+body{
+    background-image: url('../img/fondoWeb.png');
+}
+
+.LoginUsuario{
+    margin-top: 10%;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: whitesmoke;
+}
